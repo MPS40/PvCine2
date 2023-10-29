@@ -1,7 +1,7 @@
 {
     "apiUrl" : "https://hdmovies.freehdmoviesonline.xyz/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
 	"newPackage" : "com.pvcine.pvcine4todayforu",
 	"NetworkAds" : "applovin"
